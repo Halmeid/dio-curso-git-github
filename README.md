@@ -78,7 +78,7 @@ Introduzir ao versionamento de código com Git e GitHub.
         <span><b>Elidiana Andrade</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedora Front-end na DIO</span>
     </td>
   </tr>
 </table>
